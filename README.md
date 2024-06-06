@@ -1,6 +1,6 @@
 -  Hi, I’m Jeffrey
 -  I’m currently a Computer Programming and Data Analytics student
--  I’m currently learning Java Programming Language
+-  I’m currently learning Java, Python, PowerShell, HTML and CSS. 
 -  Im looking to make a career change into IT once I complete my degrees. 
 
 <!---
